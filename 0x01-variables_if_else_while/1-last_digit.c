@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - Entry point, prints the last digit
  * and whether it is greater than 5, less than 6, or 0
