@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 
 /**
- * main - prints all single digit numbers of base 10
+ * main - prints all strings from 0 to 9
  * Return: This is always 0
  */
 int main(void)
@@ -10,7 +12,7 @@ int main(void)
 	int num;
 
 	for (num = 0; num < 10; num++)
-		printf("%d", num)
+		printf("%d", num);
 
 	printf("\n");
 
