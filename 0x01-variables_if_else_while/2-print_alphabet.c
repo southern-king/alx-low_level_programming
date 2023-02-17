@@ -7,9 +7,9 @@
  *
  * Return: This is 0
  */
-int main(void);
+int main(void)
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxxyz";
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 26; i++)
