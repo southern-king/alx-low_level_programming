@@ -1,1 +1,1 @@
-This is a readme
+0x06.C-more pointers, arrays, strings
